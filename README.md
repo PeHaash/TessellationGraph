@@ -1,1 +1,1 @@
-# GraphPolygon
+# TessellationGraph
