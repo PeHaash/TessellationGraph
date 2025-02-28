@@ -1,4 +1,5 @@
-# Hyperbolic Tessellations: Using Physics-Based Relaxation in Form-Finding of Non-Euclidean Surfaces
+# Hyperbolic Tessellations:
+## Using Physics-Based Relaxation in Form-Finding of Non-Euclidean Surfaces
 
 **Personal Project: February 2025**
 
